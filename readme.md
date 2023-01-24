@@ -1,4 +1,10 @@
-# M5 - BandKamp Generic View
+# M5 - S5 - BandKamp Generic View
+ 
+Esse projeto foi feito como entrega avaliativa no módulo 5 do curso da Kenzie Academy Brasil. Nele, é adequado um sistema já desenvolvido com APIView e sqlite3, fazendo a transição para Generic Views, ModelSerializer e Postgres.
+
+No projeto é utilizado Python com Django e DjangoRestFramework, além dos já citados Generic View, ModelSerializer e banco de dados POSTGRES.
+
+Além disso, na aplicação temos funções de criação, filtragem, atualização e deleção de usuários(users), criação e listagem de álbuns(albums) e músicas(songs).
 
 ## Instalação dos pacotes de teste
 
